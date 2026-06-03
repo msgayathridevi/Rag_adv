@@ -1,0 +1,14 @@
+{
+    "admin": [
+        "all"
+    ],
+    "hr": [
+        "hr_documents"
+    ],
+    "finance": [
+        "finance_documents"
+    ],
+    "employee": [
+        "public_documents"
+    ]
+}

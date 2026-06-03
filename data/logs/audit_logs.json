@@ -1,0 +1,12 @@
+[
+    {
+        "user": "john",
+        "action": "login",
+        "status": "success"
+    },
+    {
+        "user": "alice",
+        "action": "download_report",
+        "status": "success"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "alert": "CPU usage high",
+        "server": "server-1",
+        "severity": "critical"
+    },
+    {
+        "alert": "Disk usage exceeded threshold",
+        "server": "server-2",
+        "severity": "warning"
+    }
+]
